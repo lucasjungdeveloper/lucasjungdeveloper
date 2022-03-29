@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img src="./assets/LinkedIn.png" alt="LinkedIn" height="35px" style="margin-right:10px;"/> ](https://br.linkedin.com/in/lucas-jung-2584081a4/)
+[<img src="./assets/LinkedIn.png" alt="LinkedIn" height="35px" style="margin-right:30px;"/> ](https://br.linkedin.com/in/lucas-jung-2584081a4/)
 [<img src="./assets/Instagram.png" alt="Instagram" height="35px"/>](https://www.instagram.com/lucasjungdeveloper/)
 
 ### Languages and Tools:
