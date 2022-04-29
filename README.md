@@ -1,5 +1,5 @@
 # Hi there, I'm Lucas 👋 
-## I'm a College Student, Front-End Developer, and a Knowledge Thirsty Person!!
+## I'm a College Student, Front-End Developer, and Knowledge Thirsty Person!!
 
 - 🌱 I’m currently learning ReactJS 
 - 👯 I’m looking to grow by working with other web developers
