@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ReactJS 
 - 👯 I’m looking to grow by working with other web developers
 - 📆 2022 Goals: Have a deeper understanding of the programming fundamentals
-- ⚡ Fun fact: I love meeting new people and their life stories
+- ⚡ Fun fact: I love meeting new people and getting to know their life stories
 
 ### Connect with me:
 
