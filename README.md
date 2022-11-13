@@ -25,6 +25,8 @@
 <img align="left" alt="Arch Linux" height="26px" src="./assets/Archlinux-icon-crystal-64.svg" style="padding-right:10px;" />
 <img align="left" alt="Terminal" height="26px" src="./assets/terminal_13.svg" style="padding-right:10px;" />
 
+
+<br><br>
 <div>
 <img width="680rem" src="https://github-readme-stats.vercel.app/api?username=lucasjungdeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img width="680rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjungdeveloper&layout=compact&langs_count=6&theme=tokyonight"/>
