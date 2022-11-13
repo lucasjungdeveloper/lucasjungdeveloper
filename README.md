@@ -5,12 +5,7 @@
 - 👯 I’m looking to grow by working with other web developers
 - 📆 2022 Goals: Have a deeper understanding of the programming fundamentals
 - ⚡ Fun fact: I love meeting new people and getting to know their life stories
-
-### Connect with me:
-
-[<img src="./assets/LinkedIn.png" alt="LinkedIn" height="35px" style="padding-right:20px;"/> ](https://br.linkedin.com/in/lucas-jung-2584081a4/)
-[<img src="./assets/Instagram.png" alt="Instagram" height="35px"/>](https://www.instagram.com/lucasjungdeveloper/)
-
+- 
 ### Languages and Tools:
 
 <img align="left" alt="React" height="26px" src="./assets/React-icon.svg" style="padding-right:10px;" />
