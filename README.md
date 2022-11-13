@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I love meeting new people and getting to know their life stories
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasjungdeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjungdeveloper&layout=compact&langs_count=6&theme=tokyonight"/>
+<img width="180rem" src="https://github-readme-stats.vercel.app/api?username=lucasjungdeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img width="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjungdeveloper&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ### Connect with me:
