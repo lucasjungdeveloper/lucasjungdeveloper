@@ -1,10 +1,10 @@
 # Hi there, I'm Lucas 👋 
 ## I'm a College Student, Front-End Developer, and Knowledge Thirsty Person!!
 
-- 🌱 I’m currently learning ReactJS 
-- 👯 I’m looking to grow by working with other web developers
-- 📆 2022 Goals: Have a deeper understanding of the programming fundamentals
-- ⚡ Fun fact: I love meeting new people and getting to know their life stories
+- 🌱 I’m currently learning TRPc and NextJS.
+- 👯 I'm looking to grow by learning from other more experienced web developers.
+- 📆 2023 Goals: Have a great portifolio displaying my knowledge.
+- ⚡ Fun fact: I usually don't talk much, except when it's about tech or gaming.
 - 
 ### Languages and Tools:
 
