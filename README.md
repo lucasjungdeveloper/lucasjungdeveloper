@@ -5,7 +5,7 @@
 - 👯 I'm looking to grow by learning from other more experienced web developers.
 - 📆 2023 Goals: Have a great portifolio displaying my knowledge.
 - ⚡ Fun fact: I usually don't talk much, except when it's about tech or gaming.
-- 
+
 ### Languages and Tools:
 
 <img align="left" alt="React" height="26px" src="./assets/React-icon.svg" style="padding-right:10px;" />
